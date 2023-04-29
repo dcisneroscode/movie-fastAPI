@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "mario bros",
+        "overview": "pelicula de mario bros",
+        "year": "2023",
+        "rating": 8.6,
+        "category": "animate"
+    },
+    {
+        "id": 2,
+        "title": "evil dead",
+        "overview": "pelicula de terror",
+        "year": "2023",
+        "rating": 9.5,
+        "category": "terror"
+    },
+    {
+        "id": 3,
+        "title": "john wick",
+        "overview": "pelicula de acci\u00f3n",
+        "year": "2014",
+        "rating": 9.5,
+        "category": "acci\u00f3n"
+    },
+    {
+        "id": 4,
+        "title": "titanic",
+        "overview": "un barco que se hundio",
+        "year": "1990",
+        "rating": 9.2,
+        "category": "romance"
+    },
+    {
+        "id": 5,
+        "title": "movie title",
+        "overview": "movie overview",
+        "year": 2021,
+        "rating": 4.0,
+        "category": "category movie"
+    }
+]
